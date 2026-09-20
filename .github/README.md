@@ -23,11 +23,11 @@
       <sub>API to get a full B2B profiles from any URL</sub>
     </td>
     <td align="center" width="33%">
-      <a href="https://terminaltrove.com/?utm_campaign=github&utm_medium=referral&utm_content=web-check&utm_source=wcgh">
-        <img src="https://pixelflare.cc/alicia/sponsors/terminal-trove.png" width="260" alt="Terminal Trove"><br>
-        <b>Terminal Trove</b>
+      <a href="https://www.hostg.xyz/aff_c?offer_id=48&aff_id=243972&url_id=6826">
+        <img src="https://pixelflare.cc/alicia/sponsors/hostinger-2.png" width="260" alt="Hostinger"><br>
+        <b>Hostinger</b>
       </a><br>
-      <sub>The $HOME of all things in the terminal</sub>
+      <sub>Deploy Web-Check with one click on Hostinger</sub>
     </td>
     <td align="center" width="33%">
       <a href="https://go.warp.dev/web-check">
